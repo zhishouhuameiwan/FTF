@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+*.sln
+
+# Unreal Project Template Dir
+/.vs
+/Build
+/DerivedDataCache
+/Intermediate
+/Saved
+/Script
